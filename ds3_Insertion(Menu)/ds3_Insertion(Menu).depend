@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473174654 source:c:\users\mittr\documents\codeblocks\ds3_insertion(menu)\main.c
+	<stdio.h>
+	<stdlib.h>
+

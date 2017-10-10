@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1470433875 source:c:\users\mittr\documents\codeblocks\graph\main.cpp
+	<iostream>
+	<dos.h>
+	<conio.h>
+	<graphics.h>
+	<stdio.h>
+

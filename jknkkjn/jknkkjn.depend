@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471876539 source:c:\users\mittr\documents\codeblocks\jknkkjn\main.c
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+

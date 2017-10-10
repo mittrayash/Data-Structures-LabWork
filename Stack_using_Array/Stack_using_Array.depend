@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478510572 source:c:\users\mittr\documents\codeblocks\stack_using_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

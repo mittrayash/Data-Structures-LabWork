@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470369179 source:c:\users\mittr\documents\codeblocks\pyr\main.c
+	<stdio.h>
+	<stdlib.h>
+

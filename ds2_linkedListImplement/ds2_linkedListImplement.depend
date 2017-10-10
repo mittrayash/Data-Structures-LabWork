@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472460756 source:c:\users\mittr\documents\codeblocks\ds2_linkedlistimplement\main.c
+	<stdio.h>
+	<stdlib.h>
+

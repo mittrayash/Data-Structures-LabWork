@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472728752 source:c:\users\mittr\documents\codeblocks\ds3_bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471243159 source:c:\users\mittr\documents\codeblocks\2d_foc\main.c
+	<stdio.h>
+	<stdlib.h>
+
